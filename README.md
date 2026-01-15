@@ -1,6 +1,6 @@
 # Investment
 
-Code related to the investment section of the website.
+Code related to the investment section of the website. 
 
 See [market_sim](market_sim/README.md) for more details on the market simulation framework
 
